@@ -2,9 +2,12 @@
 #---------------------------------------------------------
 # Deploy
 #---------------------------------------------------------
-#
-#
-#
+# Clone or download https://github.com/hugoSin89/challenge-quasar.git 
+# Create DB firequasar.sql (File annexed)
+# Run Aplication from IDE
+# At Postman configured rets service type (POST) endpoint localhost:8050/satellite/location/topsecret
+# Send topsecret message
+# Look the service response
 #---------------------------------------------------------
 # Explicación
 #---------------------------------------------------------
